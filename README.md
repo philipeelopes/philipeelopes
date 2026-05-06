@@ -16,30 +16,11 @@ Utilizo dados para gerar insights, construir dashboards e apoiar a tomada de dec
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
-
-<img
-alingn="left"
-alt="excel"
-title="excel"
-width="30px"
-style="padding-right: 10px;"
-src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
-
-<img 
-alingn="left"
-alt="powerbi"
-title="powerbi"
-width="30px"
-style="padding-right: 10px;"
- src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
-
-<img 
-alingn="left"
-alt="mysql"
-title="mysql"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="30" />
+  <img src="https://img.icons8.com/fluency/48/power-bi-2021.png" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" />
+</p>
           
 
 ### 📊 Dados & BI
@@ -63,33 +44,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
   - Organização de dados para análise
 
 ### 💻 Linguagens
-<img 
-alingn="left"
-alt="Python"
-title="Python"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
- />
-
-
-<img
-alingn="left"
-alt="JavaScript"
-title="JavaScript"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
-<img 
-alingn="left"
-alt="GO"
-title="GO"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30" />
+</p>
         
           
           
@@ -102,23 +61,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.sv
 ### 🌐 Base Web
 
 
-<img
-alingn="left"
-alt="HTML"
-title="HTML"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          
-
-<img 
-alingn="left"
-alt="CSS"
-title="CSS"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" />
+</p>
 - **HTML**
 - **CSS**
 
