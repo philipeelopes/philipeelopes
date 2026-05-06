@@ -1,16 +1,156 @@
-## Hi there 👋
 
-<!--
-**philipeelopes/philipeelopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨🏻‍💻 Philípe da Rosa Lopes
 
-Here are some ideas to get you started:
+Analista de Dados em formação, com foco em análise, organização e visualização de dados.
+Utilizo dados para gerar insights, construir dashboards e apoiar a tomada de decisão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 Sobre mim
+- 🎓 Estudante de **Ciência da Computação**
+- Atuação focada em **Análise de Dados** e **Business Intelligence**
+- Forte experiência prática com **Power BI, SQL e Excel**
+- Criação de indicadores, métricas e dashboards orientados a negócio
+- Conhecimento sólido em **modelagem de dados** e **processos ETL**
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
+
+<img
+alingn="left"
+alt="excel"
+title="excel"
+width="30px"
+style="padding-right: 10px;"
+src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
+
+<img 
+alingn="left"
+alt="powerbi"
+title="powerbi"
+width="30px"
+style="padding-right: 10px;"
+ src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
+
+<img 
+alingn="left"
+alt="mysql"
+title="mysql"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+
+### 📊 Dados & BI
+- **Power BI**
+  - Modelagem de dados
+  - Criação de dashboards analíticos
+  - **DAX intermediário a avançado**  
+    (medidas complexas, contexto de filtro, CALCULATE, funções de tempo)
+- **Excel**
+  - Análise de dados
+  - Tabelas dinâmicas
+  - Fórmulas e organização de bases
+- **MySQL**
+  - Consultas complexas
+  - Joins, subqueries, group by e agregações
+- **SQL**
+  - Análise exploratória
+  - Construção de consultas para BI
+- **ETL**
+  - Extração, tratamento e carga de dados
+  - Organização de dados para análise
+
+### 💻 Linguagens
+<img 
+alingn="left"
+alt="Python"
+title="Python"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+ />
+
+
+<img
+alingn="left"
+alt="JavaScript"
+title="JavaScript"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+<img 
+alingn="left"
+alt="GO"
+title="GO"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+        
+          
+          
+- **Python**
+  - Análise de dados
+  - Manipulação de datasets
+- **JavaScript**
+- **Go (Golang)**
+
+### 🌐 Base Web
+
+
+<img
+alingn="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+
+<img 
+alingn="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+- **HTML**
+- **CSS**
+
+### ⚙️ Ferramentas
+- **Git & GitHub**
+- **VS Code**
+
+---
+
+<br/>
+<br/>
+
+
+## 📈 GitHub Stats
+
+<img 
+alingn="left"
+height="400px"
+style="padding-right: 10px;"
+src="https://ghstats.dev/api/card?username=philipeelopes&theme=tokyonight" />
+
+
+
+
+
+<br/>
+<br/>
+
+---
+
+## 📬 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/philipe-lopes-9abba5320  
+- 💻 GitHub: https://github.com/philipeelopes
+
