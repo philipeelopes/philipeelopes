@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Philípe da Rosa Lopes
 
-Analista de Dados em formação, com foco em análise, organização e visualização de dados.
+Analista de Dados Junior, com foco em análise, organização e visualização de dados.
 Utilizo dados para gerar insights, construir dashboards e apoiar a tomada de decisão.
 
 ---
